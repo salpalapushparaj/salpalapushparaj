@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salpalapushparaj
-- 👀 I’m interested in Fullstack with Mern development
+- 👀 I’m interested in Fullstack with Mern 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on mern stack development
 - 📫 How to reach me pushparajsalpala30@gmail.com
