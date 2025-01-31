@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on real time projects
 - 📫 How to reach me pushparajsalpala30@gmail.com
 - 😄 Pronouns: MERN FULL STACK DEVELOPER
-- ⚡ contACT NO;824768110
+- ⚡ contACT NO;8247681101
 - 
 
 <!---
